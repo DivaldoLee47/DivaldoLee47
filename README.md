@@ -7,20 +7,18 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">LinkedIn</a> • 
-  <a href="mailto:youremail@example.com">Email</a> • 
-  <a href="https://yourportfolio.com" target="_blank">Portfolio</a>
+  <a href="https://www.linkedin.com/in/divaldolee" target="_blank">LinkedIn</a> • 
+  <a href="mailto:divaldo.lee@example.com">Email</a> • 
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 👨‍💻 I’m a Full-Stack Engineer passionate about building scalable web apps and modern user experiences.
+- 👨‍💻 I’m a Self-taught Full-Stack Engineer passionate about building scalable web apps and modern user experiences.
 - 🛠️ Tech enthusiast with experience in both frontend and backend development.
 - 🌱 Currently sharpening my cloud-native skills & system design knowledge.
-- 🏆 Web3 Hackathon winner — built a decentralized EHR system (**HealthChain**).
-- 📫 Reach me at: **youremail@example.com**
+- 📫 Reach me at: **divaldo.lee@example.com**
 
 ---
 
@@ -70,6 +68,6 @@
 I love collaborating on interesting projects, especially in emerging tech. If you want to chat, code, or build together, reach out!
 
 <p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:divaldo.lee@example.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/divaldolee"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
