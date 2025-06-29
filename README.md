@@ -59,7 +59,7 @@
 
 - **Full-Stack Sneaker E-commerce Platform "SneakPeak"** —  A full-stack sneaker e-commerce platform built with the **MERN stack** (MongoDB, Express, React, Node.js). Features include user authentication, cart management, and secure payments via **Stripe**. Deployed on **Vercel** with a modern, mobile-responsive UI.
 - **Real-time Full-Stack Chat App** — A full-stack chat application leveraging **WebSockets** for real-time messaging. Built with React, Node.js, and Express, it supports instant user communication with live updates and typing indicators. Clean and minimalist UI optimized for responsiveness.
-- **Enterprise Level Full-Stack Rental App ** — A scalable rental management platform developed using **Next.js** with **Redux** for state management and **Node.js** for backend APIs. Includes tenant/property listing, admin dashboard, and authentication. Deployed on **AWS** for enterprise-grade reliability.
+- **Enterprise Level Full-Stack Rental App** — A scalable rental management platform developed using **Next.js** with **Redux** for state management and **Node.js** for backend APIs. Includes tenant/property listing, admin dashboard, and authentication. Deployed on **AWS** for enterprise-grade reliability.
 
 ---
 
