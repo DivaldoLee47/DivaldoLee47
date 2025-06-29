@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/divaldolee" target="_blank">LinkedIn</a> • 
-  <a href="mailto:divaldo.lee@example.com">Email</a>
+  <a href="mailto:divaldo.lee@gmail.com">Email</a>
 </p>
 
 ---
