@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/divaldolee" target="_blank">LinkedIn</a> • 
-  <a href="mailto:divaldo.lee@gmail.com">Email</a>
+  <a href="divaldo.lee@gmail.com">Email</a>
 </p>
 
 ---
@@ -68,6 +68,6 @@
 I love collaborating on interesting projects, especially in emerging tech. If you want to chat, code, or build together, reach out!
 
 <p align="center">
-  <a href="mailto:divaldo.lee@example.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="divaldo.lee@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/divaldolee"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
