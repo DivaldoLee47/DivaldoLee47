@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">Hi there, I'm Divaldo 👋</h1>
+<h1 align="center">Hi there, I'm Divaldo Lee👋</h1>
 
 <p align="center">
   🚀 Full-Stack Software Engineer | 💻 Web App Developer | 🌐 Open Source Enthusiast
