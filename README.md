@@ -46,11 +46,12 @@
 
 ---
 
-### 📈 GitHub Stats
+📈 GitHub Stats
+<!-- IMPORTANT: Replace "yourusername" with your actual GitHub username in the links below -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=DivaldoLee47&show_icons=true&theme=tokyonight" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivaldoLee47&layout=compact&theme=tokyonight" height="165">
 </p>
 
 ---
