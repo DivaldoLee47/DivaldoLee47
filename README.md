@@ -18,7 +18,7 @@
 - 👨‍💻 I’m a Self-taught Full-Stack Engineer passionate about building scalable web apps and modern user experiences.
 - 🛠️ Tech enthusiast with experience in both frontend and backend development.
 - 🌱 Currently sharpening my cloud-native skills & system design knowledge.
-- 📫 Reach me at: **divaldo.lee@example.com**
+- 📫 Reach me at: **divaldo.lee@gmail.com**
 
 ---
 
